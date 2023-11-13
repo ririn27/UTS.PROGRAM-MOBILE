@@ -156,14 +156,23 @@ Tugas        : Membuat tombol yang setiap diklik dapat bertambah angkanya, namun
 #Penjelasan :
 
 *kita isi relative layout dengan 3 linear layout
+
 *linear layout 1 berisi editText dan button set maximum
+
 *linear layout 2 diisi dengan 3 textview dan 1 linear layout horizontal:
+
       a.nama + nim
+      
       b.jumlah klik pada tombol hitung
+      
       c.angka fibonacci terakhir
+      
       d.linear layout : TextView untuk menampilkan jumlah maksimal angka fibonacci
+      
 *linear layout 3 berisi :
+
       a.linear layout 1 :button hitung + button reset
+      
       b.linear layout 2 : button toast
 
 * # MainActivity.Java
