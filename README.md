@@ -539,3 +539,6 @@ b. *kemudian warna background akan diganti menjadi warna putih seperti sedia kal
     
 </resources>
 
+## HASIL OUTPUTNYA 
+
+[Clik Video]https://youtu.be/v7pCimP9Aq8?si=ekd_zXusVGsWfkhJ
